@@ -30,7 +30,9 @@ Not being able to run:
 
 Check if you are using Windows, it won't work.
 
-If you dont already have at least Duo booted Linux, you can try a VM (Virtual Maschiene)
+If you dont already have at least Duo booted Linux, you can try a VM (Virtual Maschiene), or just run the **main.py** file.
+
+I have not tried if it works as I am not on Windows
 
 Not being able to paste in Terminal
 
