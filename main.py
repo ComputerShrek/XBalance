@@ -10,14 +10,14 @@ import random
 import string
 # The variables:
 codes = []
-zwichen = 0
-# This script generates random Gift Card codes in the format XXXX-XXXX-XXXX
+zwischen = 0
 times = 0
+# This script generates random Gift Card codes in the format XXXX-XXXX-XXXX
 # Number of codes to generate
-zwichen = input("How many codes do you want to generate? \n")
+zwischen = input("How many codes do you want to generate? \n")
 # Check if the input is a digit:
-if zwichen.isdigit(): 
-    times = int(zwichen)
+if zwischen.isdigit(): 
+    times = int(zwischen)
 else:
     print("Please enter a valid number.")
     exit()
