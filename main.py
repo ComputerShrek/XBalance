@@ -14,7 +14,7 @@ zwichen = 0
 # This script generates random Gift Card codes in the format XXXX-XXXX-XXXX
 times = 0
 # Number of codes to generate
-zwichen = input("How many codes do you want to generate? ")
+zwichen = input("How many codes do you want to generate? \n")
 # Check if the input is a digit:
 if zwichen.isdigit(): 
     times = int(zwichen)
