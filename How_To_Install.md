@@ -25,7 +25,7 @@ To run the Script you just need Following commands:
 
 **bash Xbalance.sh**
 
-### Fixes for Usual Problems
+## Fixes for Usual Problems
 Not being able to run:
 
 Check if you are using Windows, it won't work.
