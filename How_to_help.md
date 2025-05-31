@@ -1,6 +1,6 @@
 # Possible ways to help
-1: Try to make it faster and optimized
-2: Make a UI
+1: Try to make it faster and optimized \n
+2: Make a UI \n
 3: Make it run on Windows
 4: Check the code for Bugs
 5: Make User instructions
