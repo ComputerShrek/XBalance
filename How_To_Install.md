@@ -15,3 +15,25 @@ Fedora (DNF Manager):
 **sudo dnf install Python3**
 
 **sudo dnf install Pip3**
+## Installing the main imports
+Command is:
+
+**pip3 install requirements.txt**
+
+## Running the script
+To run the Script you just need Following commands:
+
+**bash Xbalance.sh**
+
+### Fixes for Usual Problems
+Not being able to run:
+
+Check if you are using Windows, it won't work.
+
+If you dont already have at least Duo booted Linux, you can try a VM (Virtual Maschiene)
+
+Not being able to paste in Terminal
+
+Use **SHIFT + CTR + V**
+
+This should work on most systems
