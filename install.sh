@@ -4,3 +4,4 @@ sudo apt install Pip3
 sudo dnf install Python3
 sudo dnf install pip3
 sudo dnf install figlet
+pip3 install requirements.txt
